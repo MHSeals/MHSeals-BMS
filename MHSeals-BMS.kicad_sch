@@ -1,0 +1,583 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d0110039-a9ff-45f9-bcee-bd832f1a804d")
+	(paper "A4")
+	(lib_symbols
+		(symbol "2025-05-21_18-58-05:LM74800QDRRRQ1"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "LM74800QDRRRQ1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "DRR0012E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "LM74800QDRRRQ1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LM74800QDRRRQ1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DRR0012E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LM74800QDRRRQ1_0_1"
+				(polyline
+					(pts
+						(xy -15.24 -20.32) (xy 15.24 -20.32)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -15.24 20.32) (xy -15.24 -20.32)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -20.32) (xy 15.24 20.32)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 20.32) (xy -15.24 20.32)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin output line
+					(at 20.32 7.62 180)
+					(length 5.08)
+					(name "DGATE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -20.32 15.24 0)
+					(length 5.08)
+					(name "VS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 -7.62 180)
+					(length 5.08)
+					(name "CAP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 5.08 180)
+					(length 5.08)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 -12.7 180)
+					(length 5.08)
+					(name "PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 10.16 180)
+					(length 5.08)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -5.08 0)
+					(length 5.08)
+					(name "VSNS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 0 0)
+					(length 5.08)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 7.62 0)
+					(length 5.08)
+					(name "OV"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -12.7 0)
+					(length 5.08)
+					(name "EN_UVLO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 -17.78 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "HGATE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 15.24 180)
+					(length 5.08)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2025-05-21_18-58-05:LM74800QDRRRQ1")
+		(at 137.16 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8331f11b-47b0-4a6f-9381-1753532ae17c")
+		(property "Reference" "U2"
+			(at 137.16 36.83 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "LM74800QDRRRQ1"
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "DRR0012E"
+			(at 137.16 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LM74800QDRRRQ1"
+			(at 137.16 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "4e1cb7cf-f3ff-4867-ad4c-2bd6a892f53e")
+		)
+		(pin "5"
+			(uuid "ddea266d-5753-4c75-aeb7-1b1fd77bd47e")
+		)
+		(pin "8"
+			(uuid "b03aa872-34ed-4e06-a9dd-18535415cfd7")
+		)
+		(pin "6"
+			(uuid "a24f5897-a14c-4323-8db2-b77a20be358d")
+		)
+		(pin "11"
+			(uuid "08982b56-9017-4434-b597-86a7dc5f8b19")
+		)
+		(pin "13"
+			(uuid "78f455e9-a4be-4ac8-84f7-4407f70b079d")
+		)
+		(pin "1"
+			(uuid "acb3d54d-e5e7-42bb-8bcd-942088b6d3f8")
+		)
+		(pin "12"
+			(uuid "cc541649-4fcd-4157-8a80-01b94b8e7a45")
+		)
+		(pin "10"
+			(uuid "ab56b76c-2b22-462b-88f5-ff86686034ac")
+		)
+		(pin "3"
+			(uuid "1af20f13-02a3-419a-8bcc-a8ce3d926d80")
+		)
+		(pin "9"
+			(uuid "bf843f93-9c87-4a47-aca8-c107f67c6b51")
+		)
+		(pin "7"
+			(uuid "5f128e07-dbb5-49e0-8f52-eb9e94a72af2")
+		)
+		(pin "2"
+			(uuid "9a1699ee-94f6-48fd-b062-4879a316be38")
+		)
+		(instances
+			(project "MHSeals-BMS"
+				(path "/d0110039-a9ff-45f9-bcee-bd832f1a804d"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2025-05-21_18-58-05:LM74800QDRRRQ1")
+		(at 137.16 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af3a0f07-8e78-4622-bbce-0f25d8b09dfe")
+		(property "Reference" "U1"
+			(at 137.16 113.03 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "LM74800QDRRRQ1"
+			(at 137.16 115.57 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "DRR0012E"
+			(at 137.16 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LM74800QDRRRQ1"
+			(at 137.16 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "dffbc2b9-d90c-4faf-aafe-d9c18f36b3fa")
+		)
+		(pin "5"
+			(uuid "5ed0eb06-81f8-4f73-a55d-8020e9915dfb")
+		)
+		(pin "8"
+			(uuid "c904162f-70d2-4016-b14a-44d756db8eb6")
+		)
+		(pin "6"
+			(uuid "00b38042-a7ce-4ef2-862f-ace0a1280c6c")
+		)
+		(pin "11"
+			(uuid "d0aeffce-631e-4057-9174-6aa12b0030d5")
+		)
+		(pin "13"
+			(uuid "945d1735-f099-4255-9fdf-d7aa5c7c4955")
+		)
+		(pin "1"
+			(uuid "a9832224-934f-477a-9ec0-17aea74566a6")
+		)
+		(pin "12"
+			(uuid "266a938c-11f9-4426-a3c2-035d12d863df")
+		)
+		(pin "10"
+			(uuid "288a191e-d10f-4386-9e82-e6db645459cb")
+		)
+		(pin "3"
+			(uuid "fab04016-08ab-4c3f-bb00-12a21dda3955")
+		)
+		(pin "9"
+			(uuid "527458c4-a1da-4833-8456-d841d262fcb5")
+		)
+		(pin "7"
+			(uuid "d649709c-ed7c-42ac-b94e-02c3f11f059b")
+		)
+		(pin "2"
+			(uuid "2d0f400b-838e-4617-bc02-8e4c852a9309")
+		)
+		(instances
+			(project ""
+				(path "/d0110039-a9ff-45f9-bcee-bd832f1a804d"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
