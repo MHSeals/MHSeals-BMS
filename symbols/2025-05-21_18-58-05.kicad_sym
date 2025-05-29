@@ -273,17 +273,17 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 1.27 25.4 270)
 				(length 5.08)
-				(name "C"
+				(name "EN_UVLO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "12"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -309,8 +309,26 @@
 					)
 				)
 			)
+			(pin unspecified line
+				(at 6.35 25.4 270)
+				(length 5.08)
+				(name "C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin output line
-				(at 10.16 25.4 270)
+				(at 12.7 25.4 270)
 				(length 5.08)
 				(name "HGATE"
 					(effects
@@ -328,7 +346,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 15.24 180)
+				(at 29.21 0 180)
 				(length 5.08)
 				(name "OUT"
 					(effects
@@ -338,24 +356,6 @@
 					)
 				)
 				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 29.21 -17.78 180)
-				(length 5.08)
-				(name "EN_UVLO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
