@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XT90PW-F")(type "KiCad")(uri "${KIPRJMOD}/symbols/XT90PW-F.kicad_sym")(options "")(descr ""))
+  (lib (name "XT90PW-M")(type "KiCad")(uri "${KIPRJMOD}/symbols/XT90PW-M.kicad_sym")(options "")(descr ""))
+)
