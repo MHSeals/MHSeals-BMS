@@ -6034,7 +6034,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 231.14 186.69 90)
 			(effects
 				(font
@@ -6072,7 +6072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 231.14 177.8 90)
 			(effects
 				(font
@@ -6081,7 +6081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 231.14 177.8 90)
 			(effects
 				(font
@@ -6191,10 +6191,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3b94563c-1b50-4525-bcb1-2fb62bf28ffd")
 		(property "Reference" "D1"
-			(at 224.79 154.94 0)
+			(at 225.044 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6202,7 +6201,7 @@
 			)
 		)
 		(property "Value" "1N4004"
-			(at 224.79 157.48 0)
+			(at 225.044 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9212,7 +9211,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 199.39 186.69 90)
 			(effects
 				(font
@@ -9250,7 +9249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 199.39 177.8 90)
 			(effects
 				(font
@@ -9259,7 +9258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 199.39 177.8 90)
 			(effects
 				(font

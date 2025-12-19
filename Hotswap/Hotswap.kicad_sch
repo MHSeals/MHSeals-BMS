@@ -4458,7 +4458,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 149.86 101.6 90)
 			(effects
 				(font
@@ -4496,7 +4496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 149.86 110.49 90)
 			(effects
 				(font
@@ -4505,7 +4505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 149.86 110.49 90)
 			(effects
 				(font
@@ -5581,7 +5581,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 101.6 20.32 90)
 			(effects
 				(font
@@ -5619,7 +5619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 101.6 29.21 90)
 			(effects
 				(font
@@ -5628,7 +5628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 101.6 29.21 90)
 			(effects
 				(font
@@ -5681,7 +5681,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 135.89 20.32 90)
 			(effects
 				(font
@@ -5719,7 +5719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 135.89 29.21 90)
 			(effects
 				(font
@@ -5728,7 +5728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 135.89 29.21 90)
 			(effects
 				(font
@@ -6138,7 +6138,7 @@
 				)
 			)
 		)
-		(property "Value" "IRFP4468PbF"
+		(property "Value" "IRFP7430PBF"
 			(at 101.6 101.6 90)
 			(effects
 				(font
@@ -6176,7 +6176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://mou.sr/3w4O2Ob"
+		(property "Link" "https://mou.sr/4j0VC0J"
 			(at 101.6 110.49 90)
 			(effects
 				(font
@@ -6185,7 +6185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser PN" "726-IRFP4468PBFXKMA1 "
+		(property "Mouser PN" "942-IRFP7430PBF "
 			(at 101.6 110.49 90)
 			(effects
 				(font
